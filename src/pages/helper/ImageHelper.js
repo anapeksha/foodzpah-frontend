@@ -1,7 +1,7 @@
-import React from "react";
-import { API } from "../../uri";
-import image from "../../img/background-photo.jpg";
 import { CardMedia } from "@mui/material";
+import React from "react";
+import image from "../../img/not-found.jpeg";
+import { API } from "../../uri";
 
 
 const ImageHelper = ({ product }) => {

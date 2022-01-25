@@ -1,7 +1,7 @@
 {
   "name": "foodzpah-frontend",
   "version": "0.1.0",
-  "homepage": "https://anapeksha.github.io/foodzpah-frontend",
+  "homepage": "https://anapeksha.github.io",
   "author": "Anapeksha Mukherjee <anapeksha.mukherjee@gmail.com>",
   "private": true,
   "dependencies": {

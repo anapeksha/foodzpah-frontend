@@ -17,7 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![GPL v3.0 License][license-shield]][https://github.com/anapeksha/foodzpah-frontend/blob/main/LICENSE]
+[![GPL v3.0 License][license-shield]][license-url]
 
 
 
@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![![Product Screen Shot][product-screenshot]](https://github.com/anapeksha/foodzpah-frontend)
+[![Product Screen Shot][product-screenshot]](https://github.com/anapeksha/foodzpah-frontend)
 
 A simple food ordering app with user and admin sections.
 

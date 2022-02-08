@@ -91,7 +91,7 @@ Instructions on how to set up the project.
    ```
 4. Configure environment variables  in `.env`
 
-5. The backend of the project is [here](https://github.com/anapeksha/foodzpah-backend)
+5. The backend for the project is [here](https://github.com/anapeksha/foodzpah-backend)
 
 6. Start the Development server
     ```sh

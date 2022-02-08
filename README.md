@@ -116,5 +116,5 @@ Distributed under the GNU GPL v3.0 License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/anapeksha/foodzpah-frontend.svg?style=for-the-badge
-[license-url]: https://github.com/anapeksha/foodzpah-frontend/blob/master/LICENSE.txt
+[license-url]: https://github.com/anapeksha/foodzpah-frontend/blob/main/LICENSE
 [product-screenshot]: https://github.com/anapeksha/foodzpah-frontend/blob/main/screenshots/project-screenshot.png

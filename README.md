@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screen Shot][product-screenshot]](https://github.com/anapeksha/foodzpah-frontend)
+![![Product Screen Shot][product-screenshot]](https://github.com/anapeksha/foodzpah-frontend)
 
 A simple food ordering app with user and admin sections.
 
@@ -117,3 +117,4 @@ Distributed under the GNU GPL v3.0 License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/anapeksha/foodzpah-frontend.svg?style=for-the-badge
 [license-url]: https://github.com/anapeksha/foodzpah-frontend/blob/master/LICENSE.txt
+[product-screenshot]: screenshots/project-screenshot.png

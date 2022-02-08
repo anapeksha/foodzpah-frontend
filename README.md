@@ -89,7 +89,19 @@ Instructions on how to set up the project.
    ```sh
    yarn install
    ```
-4. Configure environment vairables  in `.env`
+4. Configure environment variables  in `.env`
+
+5. The backend of the project is [here](https://github.com/anapeksha/foodzpah-backend)
+
+6. Start the Development server
+    ```sh
+    yarn start
+    ```
+
+7. Create a production build
+    ```sh
+    yarn build
+    ```
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 

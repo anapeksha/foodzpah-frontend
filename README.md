@@ -59,6 +59,7 @@ A simple food ordering app with user and admin sections.
 ### Built With
 
 * [React.js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 * [MUI](https://mui.com/)
 
 

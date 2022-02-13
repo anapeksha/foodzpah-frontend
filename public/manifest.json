@@ -1,6 +1,13 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Foodzpah",
+  "name": "Foozpah",
+  "orientation":"landscape",
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#6279e3",
+  "background_color": "#ffffff",
+  "prefer_related_applications": true,
+	"lang": "en-US",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +24,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "fullscreen",
-  "theme_color": "#6279e3",
-  "background_color": "#ffffff"
+  ]
 }

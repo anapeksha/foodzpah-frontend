@@ -1,11 +1,11 @@
-import Form from "../components/Form";
-import { Typography, CircularProgress } from "@mui/material";
-import GoogleLogin from "react-google-login";
-import validator from "validator";
-import { useState } from "react";
-import { Redirect } from "react-router-dom";
-import { signin, authenticate, isAuthenticated } from "../auth";
 import { LoadingButton } from "@mui/lab";
+import { CircularProgress, Typography } from "@mui/material";
+import { useState } from "react";
+import GoogleLogin from "react-google-login";
+import { Redirect } from "react-router-dom";
+import validator from "validator";
+import { authenticate, isAuthenticated, signin } from "../auth";
+import Form from "../components/Form";
 
 function Login() {
 	const [values, setValues] = useState({
@@ -152,7 +152,7 @@ function Login() {
 						buttonText="Sign in with Google"
 						onSuccess={responseGoogleSuccess}
 						onFailure={responseGoogleFailure}
-						isSignedIn={true}
+						isSignedIn={false}
 						cookiePolicy={"single_host_origin"}
 					/>
 				</div>

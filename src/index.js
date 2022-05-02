@@ -1,14 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
-import { BrowserRouter } from "react-router-dom";
-import { HashRouter } from "react-router-dom";
-import { store } from "./redux/store";
 import { Provider } from "react-redux";
-import * as serviceWorker from "./serviceWorker";
-import reportWebVitals from "./reportWebVitals";
-import { PersistGate } from 'redux-persist/integration/react'
+import { BrowserRouter } from "react-router-dom";
 import { persistStore } from "redux-persist";
+import { PersistGate } from 'redux-persist/integration/react';
+import App from "./App";
+import { store } from "./redux/store";
+import reportWebVitals from "./reportWebVitals";
+import * as serviceWorker from "./serviceWorker";
 
 let persistor = persistStore( store );
 
@@ -16,9 +15,9 @@ ReactDOM.render(
 	<React.StrictMode>
 		<Provider store={store}>
 			<PersistGate loading={null} persistor={persistor}>
-			<HashRouter>
+			<BrowserRouter>
 				<App />
-			</HashRouter>
+			</BrowserRouter>
 			</PersistGate>
 		</Provider>
 	</React.StrictMode>,

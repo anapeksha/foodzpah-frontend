@@ -18,6 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![GPL v3.0 License][license-shield]][license-url]
+![CI/CD](https://github.com/anapeksha/foodzpah-frontend/workflows/build/badge.svg)
 
 
 

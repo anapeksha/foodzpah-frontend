@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "Anapeksha Mukherjee <anapeksha.mukherjee@gmail.com>",
   "private": true,
+  "homepage": "https://anapeksha.github.io/foodzpah-frontend",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
